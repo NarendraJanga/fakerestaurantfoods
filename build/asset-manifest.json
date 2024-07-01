@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd774608.css",
+    "main.js": "/static/js/main.1cb41867.js",
+    "static/js/453.c8677bb7.chunk.js": "/static/js/453.c8677bb7.chunk.js",
+    "static/media/chiken3.jpeg": "/static/media/chiken3.4d7bf9b6c7fdba61aec1.jpeg",
+    "static/media/burger2.jpeg": "/static/media/burger2.d3bc8693150ad821b643.jpeg",
+    "static/media/pizza3.jpeg": "/static/media/pizza3.332f35ff36c84da5c069.jpeg",
+    "static/media/burger3.jpeg": "/static/media/burger3.dcb50870a54ac2b3fff4.jpeg",
+    "static/media/pizza1.jpeg": "/static/media/pizza1.1aae081b7f9ff22269a7.jpeg",
+    "static/media/salad3.jpeg": "/static/media/salad3.831915bb3759aa23dd0a.jpeg",
+    "static/media/salad1.jpeg": "/static/media/salad1.a7e35e9a095be78828ce.jpeg",
+    "static/media/chiken1.jpeg": "/static/media/chiken1.3118deb2af0bc2096425.jpeg",
+    "static/media/burger1.jpeg": "/static/media/burger1.dc08cf585275d041e2d3.jpeg",
+    "static/media/salad2.jpeg": "/static/media/salad2.d76860501530b4c95ee1.jpeg",
+    "static/media/chiken2.jpeg": "/static/media/chiken2.c672cca81449db6dfd19.jpeg",
+    "static/media/pizza2.jpeg": "/static/media/pizza2.c07ace7089d4a2d1865f.jpeg",
+    "index.html": "/index.html",
+    "main.cd774608.css.map": "/static/css/main.cd774608.css.map",
+    "main.1cb41867.js.map": "/static/js/main.1cb41867.js.map",
+    "453.c8677bb7.chunk.js.map": "/static/js/453.c8677bb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd774608.css",
+    "static/js/main.1cb41867.js"
+  ]
+}
